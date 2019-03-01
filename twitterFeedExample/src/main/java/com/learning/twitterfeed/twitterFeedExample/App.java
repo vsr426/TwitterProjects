@@ -14,10 +14,10 @@ import twitter4j.conf.ConfigurationBuilder;
 
 public class App 
 {
-	private static String CONSUMERKEY="kEOtSXvW9obUyOtAVa5qF2HOB";
-	private static String CONSUMERKEY_SECRET="Nyki4IUD3pVqRR5dJEHFKErWNv1LJpdVVYUlDwHcerRhfjyaXm";
-	private static String ACCESSTOKEN="1081024273245003776-WcqxxWOLOTU6Oi2MfMAPNXzJkCsGoM";
-	private static String ACCESSTOKEN_SECRET="p351nNGsrWM1e7tPJefSRvRRWDOE8GSiTEMOJ5J3IEkfQ";
+	private static String CONSUMERKEY="XXXXX";
+	private static String CONSUMERKEY_SECRET="XXXXXX";
+	private static String ACCESSTOKEN="XXXXXXXXXXX";
+	private static String ACCESSTOKEN_SECRET="XXXXXXXXXXXXXXX";
 	
     public static void main( String[] args )
     {
